@@ -30,4 +30,4 @@ To install the packages into the projetct just type this comand into your folder
  
  ⌨ FEEL FREE TO GIVE ME A FEEDBACK!
  
-...In progress🚀
+...In progress, when the project finished i'll show you how this works🚀
