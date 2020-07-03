@@ -27,6 +27,8 @@ To install the packages into the projetct just type this comand into your folder
  
  ❗ If you need to revert this act just type
  
+ 
+ 
  * yarn typeorm migration:revert  (And then type run migrantions again.)
  
  ⌨ FEEL FREE TO GIVE ME A FEEDBACK!
