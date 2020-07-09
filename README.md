@@ -1,5 +1,6 @@
 # Go Barber - A application for scheduling a barber
-🚀Come On we know that you like to test if this project working well!🚀
+
+🚀Come On we know that you like to test if this project working well!!!
 
 First of all i will explain about this project.
 
@@ -9,7 +10,7 @@ I'm creating a project to book a barber service, to this i will develope step by
 
 So, thinking about this, I decided to make you a Step by step  to run this project.
 
-Relax, it's easy, follow me and learn with me 🔥 -> 
+Relax, it's easy, follow me and learn with me 🔥 --> 
 
 💻 On this poit you will find a node_module on your project, on this package you'll find all dependencies!
 To install the packages into the projetct just type this comand into your folder project! First thing is "REMOVE FOLDER NODE_MODULES" and than ->
@@ -26,8 +27,10 @@ To install the packages into the projetct just type this comand into your folder
  
  ❗ If you need to revert this act just type
  
+ 
+ 
  * yarn typeorm migration:revert  (And then type run migrantions again.)
  
  ⌨ FEEL FREE TO GIVE ME A FEEDBACK!
  
-...In progress🚀
+...In progress, when the project finished i'll show you how this works🚀
