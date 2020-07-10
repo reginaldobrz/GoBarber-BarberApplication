@@ -1,4 +1,4 @@
-# Go Barber - A application for scheduling a barber
+# Go Barber - A scheduling barber application
 
 🚀Come On we know that you like to test if this project working well!!!
 
