@@ -19,7 +19,7 @@ To install the packages into the projetct just type this comand into your folder
 
 💻 Our project need a data base to work well, On this step we will Create a postgres data base called by gostack_gobarber, but you can call by any name did you like! To do this step you need to run this follow comand. Remember, you need to have postgres instaled in you spacesheep(Computer 😁)
 
-* Create data base <Put_the_name_you_choose>
+* Create data base <Put_the_name_you_choose> 
 
 💻 Now we have the database🙌. Lets go to create our tables into. To create this tables we'll using the migrations. it's a kind of simple way to do this job for us, type this comand into your terminal. But remenber, you need to stay into you project folder, ok!
 
