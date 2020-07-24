@@ -23,7 +23,7 @@ To install the packages into the projetct just type this comand into your folder
 
 💻 Now we have the database🙌. Lets go to create our tables into. To create this tables we'll using the migrations. it's a kind of simple way to do this job for us, type this comand into your terminal. But remenber, you need to stay into you project folder, ok!
 
- * yarn typeorm migration:run
+ * yarn typeorm migration:run 
   
  ❗ If you need to revert this act just type
  
