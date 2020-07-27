@@ -2,7 +2,7 @@
 
 🚀Come On we know that you like to test if this project working well!!
 
-First of all i will explain about this project..
+First of all i will explain about this project.. 
 
 I'm studing a lot about react, javascript, reactJs, typeScript. And this project is a result from this.
 
