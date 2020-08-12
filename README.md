@@ -8,7 +8,7 @@ I'm studing a lot about react, javascript, reactJs, typeScript. And this project
 
 I'm creating a project to book a barber service, to this i will develope step by step following the RocketSeat course!
 
-So, thinking about this, I decided to make you a Step by step  to run this project.
+So, thinking about this, I decided to make you a Step by step  to run this project. 
 
 Relax, it's easy, follow me and learn with me 🔥 -->  
 
