@@ -14,7 +14,7 @@ Relax, it's easy, follow me and learn with me 🔥 -->
 
 💻 On this poit you will find a node_module on your project, on this package you'll find all dependencies!
 To install the packages into the projetct just type this comand into your folder project! First thing is "REMOVE FOLDER NODE_MODULES" and than ->
-
+ 
 * yarn run 
 
 💻 Our project need a data base to work well, On this step we will Create a postgres data base called by gostack_gobarber, but you can call by any name did you like! To do this step you need to run this follow comand. Remember, you need to have postgres instaled in you spacesheep(Computer 😁)
